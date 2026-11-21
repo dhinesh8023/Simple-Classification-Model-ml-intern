@@ -1,6 +1,6 @@
 # Simple Classification Model Build Using Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dhinesh8023/Simple-Classification-Model/blob/main/classification_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhinesh8023/Simple-Classification-Model-ml-intern/blob/main/classification_model.ipynb)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2%2B-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -270,7 +270,7 @@ Therefore, Logistic Regression is demonstrably safer for clinical screening work
 
 ### Option A: Google Colab (One-Click)
 1. Click the badge below to launch the notebook directly in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dhinesh8023/Simple-Classification-Model/blob/main/classification_model.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhinesh8023/Simple-Classification-Model-ml-intern/blob/main/classification_model.ipynb)
 2. In Google Colab, select **Runtime > Run all** (`Ctrl + F9`).
 3. View all interactive code outputs, tables, and visualization plots.
 
@@ -278,8 +278,8 @@ Therefore, Logistic Regression is demonstrably safer for clinical screening work
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Dhinesh8023/Simple-Classification-Model.git
-   cd Simple-Classification-Model
+   git clone https://github.com/dhinesh8023/Simple-Classification-Model-ml-intern.git
+   cd Simple-Classification-Model-ml-intern
    ```
 
 2. **Create and activate a virtual environment (recommended):**
@@ -314,7 +314,7 @@ Therefore, Logistic Regression is demonstrably safer for clinical screening work
 ## Repository Structure
 
 ```
-Simple-Classification-Model/
+Simple-Classification-Model-ml-intern/
 │
 ├── README.md                           # Comprehensive documentation & results
 ├── classification_model.ipynb          # 18-section Google Colab / Jupyter notebook
